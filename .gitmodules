@@ -1,0 +1,3 @@
+[submodule "magloop_pico_code"]
+	path = magloop_pico_code
+	url = https://github.com/Greg-R/magloop_pico_code
