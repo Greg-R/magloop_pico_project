@@ -18,4 +18,12 @@ git clone https://github.com/Greg-R/magloop_pico_project
 cd magloop_pico_project  
 git submodule update --init  
 
+Use these commands to update the project:
+
+cd magloop_pico_project  
+git pull  
+git submodule update  
+
+
+
 
