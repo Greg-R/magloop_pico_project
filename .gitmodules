@@ -10,3 +10,6 @@
 [submodule "magloop_pico_pcb"]
 	path = magloop_pico_pcb
 	url = https://github.com/Greg-R/magloop_pico_pcb.git
+[submodule "magloop_pico_audiomute"]
+	path = magloop_pico_audiomute
+	url = https://github.com/Greg-R/magloop_pico_audiomute
