@@ -4,6 +4,8 @@ This is the repository for a magnetic loop antenna controller which is patterned
 
 This derivative design replaces the STM32 ''Blue Pill'' controller module with a Raspberry Pi Pico.  I noticed the Pi Pico was very similar in size to the STM32 board, and had the necessary GPIOs and ADC (Analog to Digital Converter) to perform the same function as the Blue Pill board.  Another reason to use the Pi Pico is that it has not been affected by ``supply chain'' problems which have plagued other electronic endeavors.  
 
+The project's firmware was developed using Visual Studio Code and the Pi Pico C/C++ SDK.  A future branch may support the Arduino IDE.
+
 # Documentation
 
 Included in this repository is the file "magloop_pico_book.pdf" which includes sufficient information to construct both the controller and a single-loop antenna.
@@ -12,8 +14,8 @@ Included within this respository are five submodules which include the design da
 
 Use these commands to clone this repository and the submodules:
 
-git clone https://github.com/Greg-R/magloop_pico_project
-cd magloop_pico_project
-git submodule update --init
+git clone https://github.com/Greg-R/magloop_pico_project  
+cd magloop_pico_project  
+git submodule update --init  
 
 
