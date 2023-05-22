@@ -10,6 +10,8 @@ The project's firmware was developed using Visual Studio Code and the Pi Pico C/
 
 # Documentation
 
+**Documentation for Version 2 in progress and will be uploaded soon.**
+
 Included in this repository is the file "magloop_pico_book.pdf" which includes sufficient information to construct both the controller and a single-loop antenna.
 
 Included within this respository are five submodules which include the design data for the project, including printed circuit board and 3D printing files.
