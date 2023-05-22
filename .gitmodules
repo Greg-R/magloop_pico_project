@@ -1,6 +1,3 @@
-[submodule "magloop_pico_antenna"]
-	path = magloop_pico_antenna
-	url = https://github.com/Greg-R/magloop_pico_antenna.git
 [submodule "magloop_pico_enclosure"]
 	path = magloop_pico_enclosure
 	url = https://github.com/Greg-R/magloop_pico_enclosure.git
@@ -13,3 +10,6 @@
 [submodule "magloop_pico_code_2"]
 	path = magloop_pico_code_2
 	url = https://github.com/Greg-R/magloop_pico_code_2.git
+[submodule "magloop_pico_antenna2"]
+	path = magloop_pico_antenna2
+	url = https://github.com/Greg-R/magloop_pico_antenna2.git
