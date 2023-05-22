@@ -13,3 +13,9 @@
 [submodule "magloop_pico_audiomute"]
 	path = magloop_pico_audiomute
 	url = https://github.com/Greg-R/magloop_pico_audiomute
+[submodule "magloop_pico_pcb_2"]
+	path = magloop_pico_pcb_2
+	url = https://github.com/Greg-R/magloop_pico_pcb_2.git
+[submodule "magloop_pico_code_2"]
+	path = magloop_pico_code_2
+	url = https://github.com/Greg-R/magloop_pico_code_2.git
